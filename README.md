@@ -1,4 +1,4 @@
-# chatgpt-magento2-module
+# ChatGPT Magento 2 Module
 
 I asked ChatGPT to create a Magento module for me, requirements
 - create a product attribute with combobox values/labels
